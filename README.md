@@ -57,16 +57,26 @@ Chapter
 
 19:	Word Senses and WordNet	
 
-20:	Semantic Role Labeling and Argument Structure	SRL
+20:	Semantic Role Labeling and Argument Structure
+
 21:	Lexicons for Sentiment, Affect, and Connotation
+
 22:	Coreference Resolution
+
 23:	Discourse Coherence
+
 24:	Summarization
+
 25:	Question Answering
-26:	Dialog Systems and Chatbots	Dialog
+
+26:	Dialog Systems and Chatbots
+
 27:	Phonetics
+
 28:	Speech Processing
  
 Appendix Chapters (likely just on the web)
+
 A:	Hidden Markov Models
+
 B:	Spelling Correction and the Noisy Channel
